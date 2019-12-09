@@ -2,9 +2,9 @@
 # In Python dictionaries are written with curly brackets,and they have keys and values.
 # a dict is made up of key and a value
 john = {
-    "height": 5.7 ,
+    "height": 5.7,
     "country": "kenya",
-    "language": ['python','java']
+    "language": ['python', 'java']
 
 }
 

@@ -16,9 +16,9 @@ elif x < 10:
 else: #checks for false condions
     print('{} is not less than {}'.format(x, y))
 
-if x > y :
-    if y > 2 :
-        print('y is greater than 2 , but less than {}'.format((x)))
+if x > y:
+    if y > 2:
+        print('y is greater than 2 , but less than {}'.format(x))
     else: print('y is not greater than {} and {}'.format((2, x)))
 else: print("{} is not greater than {}".format(x, y))
 
@@ -68,5 +68,21 @@ for i in range(10):
 else:
     pass
 
-# assignment: write  aprogram that prinyts the smallest and the largest number in this list
+# assignment: write  a program that prints the smallest and the largest number in this list
 numbers = [210, 0, 34, 65, 33, 54, 54, 54, 3, 65]
+mini = 0
+for items in numbers:
+    if items >= mini:
+        print(False)
+        mini += 1
+    print(items)
+
+
+
+
+
+
+
+
+
+

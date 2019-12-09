@@ -59,7 +59,7 @@ print(fbUrl[12:20])
 # number_of_children
 # PIE = 3.142 this  is a variable that doesnt change
 
-name = "php developer"
+name2 = "php developer"
 
 print(name)
 
@@ -79,7 +79,7 @@ num_of_character = len('hello world')
 print(num_of_character)
 country = 'tanzania'
 numOfCharacters = len(country)
-print (numOfCharacters)
+print(numOfCharacters)
 
 # split
 
@@ -118,6 +118,10 @@ heightInt = int(height)
 # Boolean : False , True
 isTall = True
 isConnect = False
+
+
+
+
 
 
 

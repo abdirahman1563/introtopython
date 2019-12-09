@@ -1,5 +1,5 @@
-shoppingList=['toothpaste', 'cake', 'pen']
-item0=shoppingList[0]
+shoppingList = ['toothpaste', 'cake', 'pen']
+item0 = shoppingList[0]
 
 # list slicing
 print(shoppingList[1:2])
@@ -7,7 +7,7 @@ print(type(shoppingList))
 
 # chaging item in a list
 
-shoppingList[0]= 'book'
+shoppingList[0] = 'book'
 print(shoppingList)
 
 # list length
@@ -155,3 +155,6 @@ thisset.update(["orange", "mango", "grapes"])
 print(thisset)
 
 # To remove an item in a set, use the remove(), or the discard() method.
+
+
+
