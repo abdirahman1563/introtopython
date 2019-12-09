@@ -63,6 +63,6 @@ a2.getDetails()
 
 # create a class that has the following:
 #     name = continents
-#     attribute: size, number_of_countries,population,
+#  attribute: size, number_of_countries,population,
 
 
